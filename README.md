@@ -22,11 +22,14 @@ El análisis incluye:
 ---
 
 ## 📁 Contenido del Proyecto
+- AluraStoreLatamAnalisis.ipynb → Cuaderno de Google Colab con todo el análisis paso a paso.
+- INFORME_FINAL.md → Informe ejecutivo con gráficos y recomendación final.
+- README.md → Este documento.
 
-- `AluraStoreLatamAnalisis.ipynb` → Cuaderno de Google Colab con todo el análisis paso a paso.  
-- `INFORME_FINAL.md` → Informe ejecutivo con gráficos y recomendación final.  
-- `data/` → Archivos CSV de las tiendas (fuente: GitHub Alura Latam).  
-- `README.md` → Este documento.
+> Nota: Los datos se cargan automáticamente desde el repositorio público de Alura Latam
+  [challenge1-data-science-latam](https://github.com/alura-es-cursos/challenge1-data-science-latam)
+  por lo que no es necesario subir archivos CSV locales.
+
 
 ---
 
